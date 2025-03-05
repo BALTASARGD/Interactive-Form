@@ -26,7 +26,7 @@
   /* Form Section */
   .form-section {
     flex: 1 1 300px;
-    padding: 19px;
+    padding: 20px;
     background-color: var(--section-background);
     display: flex;
     flex-direction: column;
